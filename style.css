@@ -1,0 +1,23 @@
+.sports {
+
+    font-size: 30px;
+    border: 10px black;
+    position: relative;
+}
+.product img{
+    display: block;
+    margin: 0 auto;
+}
+
+.logo {
+    float: right;
+    margin-right: 136px;
+    margin-top: -527px;
+    z-index: -1;
+}
+
+.logo-img {
+    width: 525px;
+    float: right;
+    z-index: -1;
+}
