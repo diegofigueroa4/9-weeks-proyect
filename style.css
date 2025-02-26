@@ -1,23 +1,38 @@
-.sports {
-
-    font-size: 30px;
-    border: 10px black;
-    position: relative;
+h1 {
+    text-align: center;
+    font-size: 70px;
+    position: fixed;
+    margin-top: -400px;
+    margin-left: 200px;
+    z-index: 100;
 }
-.product img{
-    display: block;
-    margin: 0 auto;
+
+.man-sports {
+    font-size: 20px;
+    position: relative;
+    border: solid 5px black;;
+}
+
+.lpi {
+    position: relative;
+    margin-top: 90px;
+    margin-left: 550px;
 }
 
 .logo {
-    float: right;
-    margin-right: 136px;
-    margin-top: -527px;
-    z-index: -1;
+    margin-left: 485px;
+    margin-top: -287px;
+    z-index: -100;
 }
 
 .logo-img {
-    width: 525px;
+    width: 350px;
+}
+.woman-sports {
+    font-size: 20px;
+    position: relative;
     float: right;
-    z-index: -1;
+    bottom:400px;
+    right:0px; ;
+
 }
