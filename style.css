@@ -2,15 +2,20 @@ h1 {
     text-align: center;
     font-size: 70px;
     position: fixed;
-    margin-top: -400px;
-    margin-left: 200px;
+    margin-top: -405px;
+    margin-left: -9px;
+    margin-right: -172px;
     z-index: 100;
+    background-color: maroon;
+    padding-left: 200px;
+    padding-right: 350px;
 }
 
 .man-sports {
     font-size: 20px;
     position: relative;
-    border: solid 5px black;;
+    border: solid 5px black;
+    background-color: white;
 }
 
 .lpi {
@@ -33,6 +38,9 @@ h1 {
     position: relative;
     float: right;
     bottom:400px;
-    right:0px; ;
+    right:10px; ;
 
+}
+body{
+    background-color: rgb(211, 179, 138);
 }
