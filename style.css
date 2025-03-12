@@ -8,7 +8,7 @@ h1 {
     z-index: 100;
     background-color: maroon;
     padding-left: 200px;
-    padding-right: 350px;
+    padding-right: 349px;
 }
 
 .man-sports {
@@ -33,14 +33,42 @@ h1 {
 .logo-img {
     width: 350px;
 }
+
 .woman-sports {
     font-size: 20px;
     position: relative;
     float: right;
-    bottom:400px;
-    right:10px; ;
+    bottom: 400px;
+    right: 10px;
+    ;
 
 }
-body{
+
+body {
     background-color: rgb(211, 179, 138);
+}
+
+.lydia {
+    text-align: center;
+    font-size: 50px;
+    position: relative;
+    left: 210px;
+    background-color: rgb(0, 0, 0);
+    padding-left: 199px;
+    margin-left: -222px;
+    color: rgb(255, 255, 255);
+}
+
+.history {
+    font-size: 30px;
+    padding-right: 300px;
+    background-color: white;
+    border: solid 5px maroon;
+}
+
+.school {
+    float: right;
+    position: relative;
+    bottom: 643px;
+    right: 11px;
 }
